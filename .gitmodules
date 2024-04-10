@@ -3,6 +3,7 @@
 [submodule "arena-web-core"]
 	path = arena-web-core
 	url = https://github.com/RemoteRendering/arena-web-core
+	branch = jesse-stripping
 [submodule "arena-persist"]
 	path = arena-persist
 	url = https://github.com/RemoteRendering/arena-persist
